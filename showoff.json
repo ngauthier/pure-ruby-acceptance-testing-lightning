@@ -1,1 +1,6 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+{
+  "name": "Pure Ruby Acceptance Testing",
+  "sections": [
+    { "section":"slides" }
+  ]
+}
