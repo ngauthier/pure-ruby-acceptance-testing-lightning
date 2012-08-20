@@ -12,5 +12,9 @@ module Dom
       click_link 'Back'
       self.all.last
     end
+
+    def delete
+      node.click_link 'Destroy'
+    end
   end
 end
