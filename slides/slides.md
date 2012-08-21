@@ -68,7 +68,7 @@
 
 !SLIDE
     @@@ ruby
-    test "it should set the title" do
+    test "set the title" do
       assert_equal(
         "My post",
         @post.title
@@ -77,10 +77,9 @@
 
 !SLIDE
     @@@ ruby
-    test "it should show up in the index" do
-      assert_equal(
-        "My post",
-        Dom::Post.first.title
+    test "show up in the index" do
+      refute_nil(
+        Dom::Post.find_by_title 'My post'
       )
     end
 
