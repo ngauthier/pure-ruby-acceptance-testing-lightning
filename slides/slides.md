@@ -1,8 +1,6 @@
 !SLIDE
-# Pure Ruby
-# Acceptance Testing
-## Nick Gauthier [@ngauthier](http://twitter.com/ngauthier)
-### [http://github.com/ngauthier/pure-ruby-acceptance-testing-lightning](http://github.com/ngauthier/pure-ruby-acceptance-testing-lightning)
+# Pure Ruby<br>Acceptance Testing
+## Nick Gauthier | [@ngauthier](http://twitter.com/ngauthier)
 
 !SLIDE
 # Your application has a domain language
@@ -136,3 +134,7 @@
 # Gotcha!
 ## It's a gem I wrote a year ago
 ### [http://github.com/ngauthier/domino](http://github.com/ngauthier/domino)
+
+!SLIDE
+# Thanks!
+![thanks.gif](thanks.gif)
